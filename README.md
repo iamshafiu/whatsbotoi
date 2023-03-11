@@ -31,6 +31,7 @@ Here's a tutorial to set up BotsApp on your own account in *less than 3 minutes.
 
 [![Multi Device](https://img.shields.io/badge/Host%20Multi%20Device%20bot%20on-Windows-red.svg?logo=Youtube)](https://youtu.be/NZy4sZqncjg&ab_channel=BotsApp)
 
+![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Deployment
 
